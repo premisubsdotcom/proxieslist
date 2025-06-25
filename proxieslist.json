@@ -1,19 +1,19 @@
 [
-  "DK",  // Denmark
-  "US",  // United States
-  "MX",  // Mexico
-  "CA",  // Canada
-  "AT",  // Austria
-  "PA",  // Panama
-  "CO",  // Colombia
-  "NL",  // Netherlands
-  "BE",  // Belgium
-  "EE",  // Estonia
-  "GR",  // Greece
-  "IE",  // Ireland
-  "PL",  // Poland
-  "SE",  // Sweden
-  "GE",  // Georgia
-  "AR",  // Argentina
-  "GB"   // United Kingdom
+  "DK",
+  "US",
+  "MX",
+  "CA",
+  "AT",
+  "PA",
+  "CO",
+  "NL",
+  "BE",
+  "EE",
+  "GR",
+  "IE",
+  "PL",
+  "SE",
+  "GE",
+  "AR",
+  "GB"
 ]
